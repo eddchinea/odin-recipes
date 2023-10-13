@@ -4,3 +4,5 @@ This is a Recipes Website builded by following The Odin Project Curriculum instr
 ## Current technologies:
 - HTML
 - CSS
+
+See here the [live preview](https://eddchinea.github.io/odin-recipes/)
